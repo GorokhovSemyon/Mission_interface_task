@@ -1,4 +1,4 @@
-# Mission_interface_task
+# Implementation of the abstract mission interface
 
 ## About
 
